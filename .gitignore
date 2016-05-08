@@ -1,0 +1,14 @@
+.settings/
+logs/
+.idea/*
+/.idea
+.project
+*.iml
+*.DS_Store
+.classpath
+target/
+log.dir_IS_UNDEFINED/
+log.dir_IS_UNDEFINED/*
+**/.idea/*
+/bin/
+shared/
